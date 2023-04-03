@@ -46,3 +46,7 @@ https://sdhz5n014f.feishu.cn/wiki/wikcnk4LbBQcMsgIzVYX5fX6osf
 2020 版本的介绍：本课程是对现代数据库管理系统内部结构的全面研究。它将涵盖高性能事务处理系统 \(OLTP\) 和大规模分析系统 \(OLAP\) 中使用的组件的核心概念和基础知识。而 23 年的只关注了 AP 系统。
 
 本篇文章将作为目录的汇总页，可以从这里去跳转到任何一篇文章。
+
+### [CMU 15721笔记 : 数据库历史](https://zhuanlan.zhihu.com/p/618789175)
+### [CMU 15721 笔记：现代 OLAP 数据库](https://zhuanlan.zhihu.com/p/618808054)
+### [CMU 15721 笔记：存储模型与数据布局](https://zhuanlan.zhihu.com/p/619061459)
