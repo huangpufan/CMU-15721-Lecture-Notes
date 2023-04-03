@@ -1,5 +1,5 @@
 # CMU-15721-Lecture-Notes
-本笔记将包含 Spring 2023 以及 Spring 2020 的所有 PPT 讲解内容
+本笔记将包含 CMU 15721 Spring 2023 以及 Spring 2020 的所有 PPT 讲解内容。
 
 同时发布在知乎：
 https://zhuanlan.zhihu.com/p/618789951
