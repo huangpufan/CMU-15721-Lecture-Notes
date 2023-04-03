@@ -47,6 +47,6 @@ https://sdhz5n014f.feishu.cn/wiki/wikcnk4LbBQcMsgIzVYX5fX6osf
 
 本篇文章将作为目录的汇总页，可以从这里去跳转到任何一篇文章。
 
-### [CMU 15721笔记 : 数据库历史](https://zhuanlan.zhihu.com/p/618789175)
+### [CMU 15721 笔记：数据库历史](https://zhuanlan.zhihu.com/p/618789175)
 ### [CMU 15721 笔记：现代 OLAP 数据库](https://zhuanlan.zhihu.com/p/618808054)
 ### [CMU 15721 笔记：存储模型与数据布局](https://zhuanlan.zhihu.com/p/619061459)
